@@ -19,8 +19,8 @@
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
     Are you tired of the default theme? I got you!<br>
-    <a href="https://skillcode.dev">My Website</a> | <a href="https://github.com/zSkillCode/skill-theme">Source Code</a>
-    <img src="https://raw.githubusercontent.com/zSkillCode/skill-theme/main/assets/screenshot.png"><br>
+    <a href="https://skillcode.dev">My Website</a> | <a href="https://github.com/zSkillCode/skill-theme">Source Code</a><br><br>
+    <img src="https://raw.githubusercontent.com/zSkillCode/skill-theme/main/assets/screenshot_small.png"><br>
     CREDITS: <a href="https://github.com/one-dark/jetbrains-one-dark-theme">One Dark Theme<a/> and <a href="https://github.com/toby-j/jetbrains-github-dark-theme/tree/master">GitHub Dark Theme</a>
   ]]></description>
 
