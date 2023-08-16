@@ -10,3 +10,5 @@
 
 ## Blackout
 <img width="750" alt="screenshot_blackout" src="https://github.com/zSkillCode/skill-theme/assets/68539499/ea9290ad-26be-4426-9450-db186057169a">
+<br><br><br><br>
+CREDITS: <a href="https://github.com/one-dark/jetbrains-one-dark-theme">One Dark Theme<a/> and <a href="https://github.com/toby-j/jetbrains-github-dark-theme/tree/master">GitHub Dark Theme</a>
