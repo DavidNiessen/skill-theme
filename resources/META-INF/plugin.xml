@@ -12,7 +12,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="contact@skillcode.dev" url="https://skillcode.dev">SkillCode</vendor>
 
-    <idea-version since-build="222" until-build="232.*"/>
+    <idea-version since-build="222"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
@@ -20,7 +20,10 @@
     <description><![CDATA[
     Are you tired of the default theme? I got you!<br>
     <a href="https://skillcode.dev">My Website</a> | <a href="https://github.com/zSkillCode/skill-theme">Source Code</a><br><br>
-    <img src="https://raw.githubusercontent.com/zSkillCode/skill-theme/main/assets/screenshot_small.png"><br>
+    Dark<br>
+    <img src="https://raw.githubusercontent.com/zSkillCode/skill-theme/main/assets/dark/screenshot_dark_small.png"><br>
+    Blackout<br>
+    <img src="https://raw.githubusercontent.com/zSkillCode/skill-theme/main/assets/dark/screenshot_blackout_small.png"><br>
     CREDITS: <a href="https://github.com/one-dark/jetbrains-one-dark-theme">One Dark Theme<a/> and <a href="https://github.com/toby-j/jetbrains-github-dark-theme/tree/master">GitHub Dark Theme</a>
   ]]></description>
 
@@ -35,6 +38,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="skill-theme" path="/theme/skill_theme.json"/>
+        <themeProvider id="skill-theme-blackout" path="themes/blackout/skill_theme_blackout.json"/>
+        <themeProvider id="skill-theme-dark" path="themes/dark/skill_theme_dark.json"/>
     </extensions>
 </idea-plugin>

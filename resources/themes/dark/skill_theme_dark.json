@@ -1,8 +1,8 @@
 {
-  "name": "Skill Theme",
+  "name": "Skill Theme Dark",
   "dark": true,
   "author": "SkillCode",
-  "editorScheme": "/theme/skill_theme.xml",
+  "editorScheme": "/themes/dark/skill_theme_dark.xml",
   "colors": {
     "accentColor": "#2f81f7",
     "backgroundColor": "#010102",
@@ -290,7 +290,7 @@
       "selectionBackground": "#ffffff"
     },
     "TextField": {
-      "background": "#21262d",
+      "background": "backgroundColor",
       "selectionBackground": "#414855"
     },
     "ToggleButton": {
