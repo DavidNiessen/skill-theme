@@ -29,7 +29,7 @@
         <option name="DIAGRAM_NOTE_BORDER" value="5c6370"/>
         <option name="DIAGRAM_REALIZATION_EDGE" value="98c379"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="18141c"/>
-        <option name="DOCUMENTATION_COLOR" value="3d424b"/>
+        <option name="DOCUMENTATION_COLOR" value="18141c"/>
         <option name="ERROR_HINT" value="781732"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f"/>
         <option name="FOLDED_TEXT_BORDER_COLOR" value=""/>
@@ -41,7 +41,7 @@
         <option name="HTML_TAG_TREE_LEVEL4" value="61afef"/>
         <option name="HTML_TAG_TREE_LEVEL5" value="c678dd"/>
         <option name="INDENT_GUIDE" value="1b1b1e"/>
-        <option name="INFORMATION_HINT" value="3d424b"/>
+        <option name="INFORMATION_HINT" value="18141c"/>
         <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="568af2"/>
         <option name="JUPYTER.CODE_CELL_BACKGROUND" value="2d3139"/>
         <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="568af2"/>
@@ -56,7 +56,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="1b1b1e"/>
         <option name="SELECTED_INDENT_GUIDE" value="606368"/>
         <option name="SELECTED_TEARLINE_COLOR" value="6b6e73"/>
-        <option name="SELECTION_BACKGROUND" value="2b212d"/>
+        <option name="SELECTION_BACKGROUND" value="4A344A"/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="211d28"/>
         <option name="ScrollBar.Mac.thumbColor" value="18141c"/>
         <option name="ScrollBar.background" value="10102"/>
