@@ -286,12 +286,12 @@
     },
     "Tag.background": "#3d424b",
     "TextArea": {
-      "background": "#21262d",
-      "selectionBackground": "#ffffff"
+      "background": "backgroundColor",
+      "selectionBackground": "selectionBackground"
     },
     "TextField": {
       "background": "backgroundColor",
-      "selectionBackground": "#414855"
+      "selectionBackground": "selectionBackground"
     },
     "ToggleButton": {
       "onForeground": "#ffffff",

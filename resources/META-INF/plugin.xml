@@ -29,8 +29,9 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-    - Brighter selection color
-    - Changed color for some popups
+    - Brighter selection color<br>
+    - Changed color of some popups<br>
+    - Changed text field selection background
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
