@@ -8,7 +8,7 @@
     "secondaryColor": "#18141c",
     "accentColor": "#2f81f7",
     "backgroundColor": "primaryColor",
-    "sidebarColor": "secondaryColor",
+    "sidebarColor": "#0A080C",
     "borderColor": "#1b1b1e",
     "infoForeground": "#f0f6fc",
     "foregroundColor": "#e6edf3",
