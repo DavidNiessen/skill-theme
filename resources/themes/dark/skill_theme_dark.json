@@ -4,13 +4,15 @@
   "author": "SkillCode",
   "editorScheme": "/themes/dark/skill_theme_dark.xml",
   "colors": {
+    "primaryColor": "#010102",
+    "secondaryColor": "#18141c",
     "accentColor": "#2f81f7",
-    "backgroundColor": "#010102",
-    "sidebarColor": "#18141c",
+    "backgroundColor": "primaryColor",
+    "sidebarColor": "secondaryColor",
     "borderColor": "#1b1b1e",
     "infoForeground": "#f0f6fc",
     "foregroundColor": "#e6edf3",
-    "notificationBackground": "#18141c",
+    "notificationBackground": "secondaryColor",
     "selectionBackground": "#161b22",
     "selectionForeground": "#f0f6fc"
   },
@@ -110,14 +112,14 @@
       "areaBackground": "#161b22"
     },
     "Editor": {
-      "background": "#21262d",
+      "background": "primaryColor",
       "foreground": "#e6edf3",
       "SearchField": {
-        "background": "#21262d"
+        "background": "secondaryColor"
       },
       "shortcutForeground": "accentColor"
     },
-    "EditorPane.inactiveBackground": "#21262d",
+    "EditorPane.inactiveBackground": "secondaryColor",
     "EditorTabs": {
       "underlinedTabBackground": ""
     },
@@ -206,7 +208,7 @@
         "updateBorderColor": "accentColor"
       },
       "SearchField": {
-        "background": "#21262d"
+        "background": "secondaryColor"
       },
       "SectionHeader.background": "#414855",
       "Tab": {
@@ -216,7 +218,7 @@
       }
     },
     "Popup": {
-      "background": "#21262d",
+      "background": "secondaryColor",
       "paintBorder": false,
       "borderColor": "#0d1117",
       "Toolbar.borderColor": "#3d424b",
@@ -244,7 +246,7 @@
       "Advertiser.foreground": "#5c6370",
       "Header.background": "backgroundColor",
       "SearchField": {
-        "background": "#21262d",
+        "background": "secondaryColor",
         "borderColor": "#1b1d21"
       },
       "Tab": {
@@ -270,7 +272,7 @@
       "hoverColor": "#161b22"
     },
     "Table": {
-      "background": "#21262d",
+      "background": "secondaryColor",
       "stripeColor": "#2c313a",
       "selectionForeground": "#ffffff",
       "foreground": "#f0f6fc",
@@ -355,13 +357,13 @@
         "selectionInactiveBackground": "#2c313a"
       },
       "separatorColor": "#2c313a",
-      "SidePanel.background": "#21262d",
+      "SidePanel.background": "secondaryColor",
       "Details.background": "backgroundColor"
     }
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#21262d",
+      "Checkbox.Background.Default.Dark": "secondaryColor",
       "Checkbox.Border.Default.Dark": "#414855",
       "Checkbox.Foreground.Selected.Dark": "#e6edf3",
       "Checkbox.Focus.Wide.Dark": "#2f81f7",
